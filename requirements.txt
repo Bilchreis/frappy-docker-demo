@@ -1,1 +1,10 @@
-secop-ophyd @ git+https://github.com/SampleEnvironment/secop-ophyd.git
+secop-ophyd @ git+https://github.com/SampleEnvironment/secop-ophyd
+frappy-core @ git+https://github.com/SampleEnvironment/frappy
+bluesky
+databroker
+mlzlog
+ipykernel
+ophyd
+ophyd-async == 0.2.0
+matplotlib
+prettyprint
