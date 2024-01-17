@@ -1,7 +1,4 @@
 
-export WORK_DIR := ${PWD}
-export PATH_VAR := ${PATH}
-
 
 
 
