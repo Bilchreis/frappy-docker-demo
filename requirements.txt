@@ -1,0 +1,1 @@
+secop-ophyd @ git+https://github.com/SampleEnvironment/secop-ophyd.git
